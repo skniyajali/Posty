@@ -1,8 +1,8 @@
-<h1 align="center"> Chatty </h1>
+<h1 align="center"> Posty </h1>
 
-## About Chatty
+## About Posty
 
-Chatty is realtime chat web application it is developed using laravel and pusher api with elegant design.
+It is a Message Posting Application and it has some features like user can post the message and other user can see it like or unlike the post and if someone liked the post then the user get notified through the mail, it is developed using Laravel and Tailwind Css.
 
 ## About Author
 
